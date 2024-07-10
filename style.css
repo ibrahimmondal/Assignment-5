@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+}
+*{
+    font-family: roboto;
+}
+header{
+    background-color: #326155;
+    text-align: center;
+}
+.header h1{
+font-size: 48px;
+font-weight: 700;
+line-height: 56.25px;
+text-align: center;
+color: #fff;
+padding-bottom: 61px;
+}
+.header img{
+    margin-top: 37px;
+
+}
+.hero-section{
+    box-sizing: border-box;
+    background-color: #D7F2EC;
+    max-width: 538px;
+    margin: auto;
+    padding: 42px;
+}
+.hero-section img{
+    width: 100%;
+
+}
+.hero-section h2{
+color: #326155;
+font-family: Roboto;
+font-size: 30px;
+font-weight: 700;
+line-height: 42.19px;
+text-align: left;
+margin-bottom:16px ;
+
+}
+.hero-section p{
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 18.75px;
+text-align: left;
+
+}
+.hero-section button {
+    padding: 15px 138px;
+    border: none;
+    background-color: #326155;
+    color: #fff;
+    font-family: roboto;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 28.13px;
+    margin-top: 11px;
+}
+.footer{
+    background-color:#326155;
+    
+}
+.footer p{
+    text-align: center;
+    color: #fff;
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 18.75px;
+padding: 21px;
+margin-top:32px;
+margin-bottom: 0px;
+}
